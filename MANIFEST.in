@@ -1,0 +1,5 @@
+include LICENSE.txt
+include README.rst
+include MANIFEST.in
+recursive-include bootstrap_datetime_picker *.py *.txt *.rst *.js *.css
+recursive-include bootstrap_datetime_picker/static *.py *.txt *.js *.css
